@@ -1,3 +1,5 @@
+'use client'
+
 export default function Dashboard() {
   return (
     <main style={{ maxWidth: '1200px', margin: '40px auto', padding: '0 20px' }}>
